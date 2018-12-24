@@ -1,0 +1,5 @@
+name: SectorsMC
+version: 0.1
+main: com.github.tax1driver.sectors.PluginMain
+commands:
+  hujtesthuj:
